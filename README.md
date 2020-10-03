@@ -50,17 +50,32 @@ Although multiple variables studied showed some impact on success, this study de
 
 ![Outcomes_vs_Goals.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Outcomes_vs_Goals.PNG)
 
-- An analysis of 1,047 play campaigns were studied to determine effect of amunt of fundraising goal on success of campaing.  
+- An analysis of 1,047 play campaigns were studied to determine the effect of amount of fundraising goal on campaign success.   
 
 ### Challenges and Difficulties Encountered
 
-Note the root cause of success factors associated with either variable (ourcomes based on goals and launch date) are undetermined with this sudy.   At his time, we do not fully know why certain months have found to be more successful for beginning fundraising campaigns.  
+Note the root cause of success factors associated with both variables (outcomes based on goals and launch date) are undetermined with this sudy.   At this time, we do not fully understand why certain months have been found to be more successful for beginning fundraising campaigns.  
 
-If needed, further work could be conducted to determine the "why" of our recommendations.  However, we recommend that the cost of determining root causes provides little to the objective to the project as defined above.  
+If needed, further work could be conducted to determine the "why" of our recommendations.  However, the cost of determining root causes provides little to the objective of the project as defined above.  
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Outcomes based on Launch Date?
+- By volume, campaigns beginning in the spring to early summer tend to be successful. 
+- By % Successful, campaign success is fairly consistant through the year, outside of December, in which less than half of the campaigns are successful.  
+58.3	January
+62.8	February
+60.9	March
+62.8	April
+66.9	May
+65.4	June
+63.0	July
+58.5	August
+60.8	September
+56.5	October
+61.4	November
+49.3	December
+
 
 - What can you conclude about the Outcomes based on Goals?
 
