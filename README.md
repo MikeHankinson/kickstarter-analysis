@@ -44,6 +44,8 @@ Although multiple variables studied showed some impact on success, this study de
 
 ![Theater_Outcomes_vs_Launch.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG)
 
+![Success_by_month.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/%25_Success_by_month.PNG)
+
 - An analysis of 1,369 theater campaigns were studied to determine if funding launch date affected fundrasing success.   
 
 ### Analysis of Outcomes Based on Goals
@@ -63,18 +65,7 @@ If needed, further work could be conducted to determine the "why" of our recomme
 Outcomes based on Launch Date?
 - By volume, campaigns beginning in the spring to early summer tend to be successful. 
 - By % Successful, campaign success is fairly consistant through the year, outside of December, in which less than half of the campaigns are successful.  
-58.3	January
-62.8	February
-60.9	March
-62.8	April
-66.9	May
-65.4	June
-63.0	July
-58.5	August
-60.8	September
-56.5	October
-61.4	November
-49.3	December
+
 
 
 - What can you conclude about the Outcomes based on Goals?
