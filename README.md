@@ -8,7 +8,7 @@ The objective of this work is to develop a strategic path-forward to yield a suc
 - Find source data to be used as effective comparison.  
 - Retrieve data from repository.
 - Clean data for purpose. 
-- Analyzed data for trends.  
+- Analyze data for trends.  
 - Provide recommendations.  
 
 ## Analysis and Challenges
