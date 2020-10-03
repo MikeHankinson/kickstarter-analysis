@@ -5,8 +5,8 @@
 
 ### Purpose
 - The objective of this work is to develop a strategic path-forward to yield a successful funding campaign.  This will be accomplished through the following tasks:
-* Find source data to be used as effective comparison.  
-* Retrieve data from repository.
+     1. Find source data to be used as effective comparison.  
+     2. Retrieve data from repository.
 * Clean data for purpose. 
 * Analyzed data for trends.  
 * Provide recommendations.  
