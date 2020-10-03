@@ -64,19 +64,17 @@ If needed, further work could be conducted to determine the "why" of our recomme
 
 Outcomes based on Launch Date?
 - By volume, campaigns beginning in the spring to early summer tend to be successful. 
-- By % Successful, campaign success is fairly consistant through the year, outside of December, in which less than half of the campaigns are successful.  
+- By % Successful metric, campaign success is fairly consistant through the year, outside of December, in which less than half of the campaigns met goals.  
 
 Outcomes based on Funding Goals?
-- In general, as funding goal requirements increase, percentage success decrease.  This, however, is not seen in the $35,000 to $45,000 range which seems to be a seet spot for intermediate funding requirements.  
+- In general, as funding goal requirements increase, percentage success decrease.  This, however, is not seen in the $35,000 to $45,000 range which seems to be a seet spot for intermediate funding requirements. 
+- At this project´s funding requirement of $10,000, there appears to be a high level of success.  
+
+Data limitations
+- Again, with this data, we are able to see two factors that affect the success of a funding campaign.  However, we do not fully understand the root cause (or the why) for each success factor.   
+
+Addition work 
+- The ¨Theater Outcomes Based on Launch Date¨ communicates that campaigns beginning in May or June have a higher number of successes.  However, it does not clearly show taht this is in part due to the fact of an increased numbers of campaigns started during this time frame.  Included above is a table demonstrating the % Success for each month.  This adds to the story.  
+- Further investigation could be conducted to determine the "why" of our recommendations. 
 
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
-
-
-
-
-
-
------------------------------------------------------------------------------------------------------------
