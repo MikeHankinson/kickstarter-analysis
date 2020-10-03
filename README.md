@@ -46,14 +46,13 @@
 
 ![Theater_Outcomes_vs_Launch.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG)
 
-
-
+- An analysis of XX number of ..... is presented above.  ....
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Outcomes_vs_Goals.PNG)
 
-
+- An analysis of XX number of ..... is presented above.  ....
 
 ### Challenges and Difficulties Encountered
 
@@ -73,20 +72,3 @@
 
 
 -----------------------------------------------------------------------------------------------------------
-Analysis of Kickstarter data to determine success factors for Play campaign.  
-
-![Theater_Outcomes_vs_Launch.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG)
-* -->This inserts an image (found example in stackoverflow, pretty cool!!, https://raw.githubusercontent.com/altercation/solarized/master/README.md)
-
-* Additional images located here....with conclusions and summary. 
-
-
-
-
-
-
-* Inset picture: You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
-
-*Test insert link using html syntax
-!https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Test%20Upload%20Outcomes%20Chart.PNG
-*--This just inserted link.  
