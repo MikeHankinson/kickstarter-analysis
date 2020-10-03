@@ -5,39 +5,39 @@ Client wishes to initiate a crowd funding campaign to finance her play, Fever. T
 
 ### Purpose
 The objective of this work is to develop a strategic path-forward to yield a successful funding campaign.  This will be accomplished through the following tasks:
-       a. Find source data to be used as effective comparison.  
-         b. Retrieve data from repository.
-     	. 1Clean data for purpose. 
-     2. Analyzed data for trends.  
-     3. Provide recommendations.  
+     - Find source data to be used as effective comparison.  
+     - Retrieve data from repository.
+     - Clean data for purpose. 
+     - Analyzed data for trends.  
+     - Provide recommendations.  
 
 ## Analysis and Challenges
 Data was extracted from Kickstarter.  Kickstarter is a funding platform for creative projects.  The data set included a total of 4,113 projects from an array of art forms including the following: 
-     a. film & video/documentary
-     b. technology/web
-     c. music/jazz
-     d. technology/wearables
-     e. games/video games
-     f. games/mobile games
-     g. photography/photobooks
-     h. food/food trucks
-     i. theater/plays
-     j. theater/musical
-     k. theater/spaces
+     - film & video/documentary
+     - technology/web
+     - music/jazz
+     - technology/wearables
+     - games/video games
+     - games/mobile games
+     - photography/photobooks
+     - food/food trucks
+     - theater/plays
+     - theater/musical
+     - theater/spaces
 
 Data was parsed to include only projects with relevance to Loise's campaign -- Campaigns associated with Theater/Plays were specifically analyzed.  Variables of successful campaigns analyzed included the following: 
-     a. deadline date
-     b. launched date
-     c. staff_pick
-     d. backers_count
-     f. spotlight
-     g. Avg. Donation ($/backer)
-     h. Year
-     i. Goal
-     j. Pledged
-     k. Outcome (successful vs. unsuccessful)
+     - deadline date
+     - launched date
+     - staff_pick
+     - backers_count
+     - spotlight
+     - Avg. Donation ($/backer)
+     - Year
+     - Goal
+     - Pledged
+     - Outcome (successful vs. unsuccessful)
 
-- Although multiple variables studied showed some impact on success, this study determeind to focus on the follwoing 2:  launch date and monetary goal
+Although multiple variables studied showed some impact on success, this study determeind to focus on the follwoing 2:  launch date and monetary goal
 
 
 ### Analysis of Outcomes Based on Launch Date
