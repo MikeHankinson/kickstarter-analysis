@@ -74,7 +74,7 @@ Data limitations
 - Again, with this data, we are able to see two factors that affect the success of a funding campaign.  However, we do not fully understand the root cause (or the why) for each success factor.   
 
 Addition work 
-- The ¨Theater Outcomes Based on Launch Date¨ communicates that campaigns beginning in May or June have a higher number of successes.  However, it does not clearly show taht this is in part due to the fact of an increased numbers of campaigns started during this time frame.  Included above is a table demonstrating the % Success for each month.  This adds to the story.  
+- The ¨Theater Outcomes Based on Launch Date¨ communicates that campaigns beginning in May or June have a higher number of successes.  However, it does not clearly show that this is in part due to the fact of an increased number of campaigns started during this time frame.  Included above is a table demonstrating the % Success for each month.  This adds to the story.  
 - Further investigation could be conducted to determine the "why" of our recommendations. 
 
 
