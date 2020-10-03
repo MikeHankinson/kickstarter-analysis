@@ -44,6 +44,9 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG)
+
+
 
 
 ### Analysis of Outcomes Based on Goals
@@ -68,7 +71,7 @@
 -----------------------------------------------------------------------------------------------------------
 Analysis of Kickstarter data to determine success factors for Play campaign.  
 
-![!Test%20Upload%20Outcomes%20Chart](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Test%20Upload%20Outcomes%20Chart.PNG)
+![Theater_Outcomes_vs_Launch.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.PNG)
 * -->This inserts an image (found example in stackoverflow, pretty cool!!, https://raw.githubusercontent.com/altercation/solarized/master/README.md)
 
 * Additional images located here....with conclusions and summary. 
