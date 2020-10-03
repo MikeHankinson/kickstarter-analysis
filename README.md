@@ -51,6 +51,10 @@
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes_vs_Goals.PNG](https://github.com/MikeHankinson/kickstarter-analysis/blob/master/Outcomes_vs_Goals.PNG)
+
+
+
 ### Challenges and Difficulties Encountered
 
 ## Results
