@@ -66,9 +66,9 @@ Outcomes based on Launch Date?
 - By volume, campaigns beginning in the spring to early summer tend to be successful. 
 - By % Successful, campaign success is fairly consistant through the year, outside of December, in which less than half of the campaigns are successful.  
 
+Outcomes based on Funding Goals?
+- In general, as funding goal requirements increase, percentage success decrease.  This, however, is not seen in the $35,000 to $45,000 range which seems to be a seet spot for intermediate funding requirements.  
 
-
-- What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
 
