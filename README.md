@@ -5,10 +5,10 @@ Client wishes to initiate a crowd funding campaign to finance her play, Fever. T
 
 ### Purpose
 The objective of this work is to develop a strategic path-forward to yield a successful funding campaign.  This will be accomplished through the following tasks:
-       a. Find source data to be used as effective comparison.  
+       	a. Find source data to be used as effective comparison.  
         b. Retrieve data from repository.
-     c. Clean data for purpose. 
-     d. Analyzed data for trends.  
+     	c. Clean data for purpose. 
+     	d. Analyzed data for trends.  
      e. Provide recommendations.  
 
 ## Analysis and Challenges
